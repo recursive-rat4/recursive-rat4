@@ -1,1 +1,1 @@
-![King's Quest Door Rat](https://github.com/recursive-rat4/recursive-rat4/raw/master/kings-quest-door-rat.png)
+![rat with staff](https://github.com/recursive-rat4/recursive-rat4/raw/master/rat-with-staff.png)
