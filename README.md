@@ -1,1 +1,1 @@
-![squid meets rat](https://github.com/recursive-rat4/recursive-rat4/raw/master/squid-meets-rat.png)
+![How to Teach Yourself C++ in 21 Days](https://devhumor.com/content/uploads/images/May2016/c-plus-plus-21-days.png)
